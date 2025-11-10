@@ -1,0 +1,7 @@
+{
+  "name": "ReconBot AI",
+  "description": "A smart reconnaissance and automation assistant for ethical hackers, red teamers, and cybersecurity learners. Streamline recon, vulnerability discovery, and reporting through a conversational AI interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
